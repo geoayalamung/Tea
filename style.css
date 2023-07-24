@@ -1,0 +1,15 @@
+.custom-blue {
+    color:#7fb1cc; 
+  }
+.custom-gold{
+color: #D4AF37;
+}
+.img-fluid{
+  max-width: 80%;
+}
+footer {
+  width: 100%;
+}
+.navbar-nav .nav-link:hover {
+  background-color:#7fb1cc;
+}
